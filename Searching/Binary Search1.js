@@ -25,4 +25,5 @@ console.log(binarySearchRec(arr, 0, arr.length - 1, 18))
  *  element = 18
  * low = 0, high - 10, mid = 5
  * low = 6, high = 10, mid = 8
+ * low = 6, high = 7, mid = 
  */
