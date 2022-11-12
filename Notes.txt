@@ -1,0 +1,30 @@
+11/11/2022
+
+// Binary Search Par 1
+
+MonoTonic Function 
+MonoTonic Sequence
+
+* Divide and conquer Algorithem
+
+Binary : only two possiblities
+
+* Complexity of Binary Search: O(log2n)
+* space Compexity Binary Search : o(1)
+
+// Liniear Search 
+Time complexity : O(n)
+space Complexity : O(1)
+
+// Global Linear Search
+
+---------------------------------------------------------------------------
+
+12/12/2022
+
+Binary Search Part 2
+
+// Ternary Search :
+
+
+`
