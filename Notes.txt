@@ -26,5 +26,11 @@ Binary Search Part 2
 
 // Ternary Search :
 
+Unimoduler  Distribution
+
+3 possiblities here
+
+
+
 
 `
