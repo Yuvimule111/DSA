@@ -30,9 +30,18 @@ Unimoduler  Distribution
 
 3 possiblities here
 
+------------------------------------------------------------------------------------
+
+14/11/2022
 
 
+// Que : triange sum property
+3 sides
+
+any two sides of a trangle should 
+sum graeter than the third side
 
 
+arr = 4 6 3 7
+possiblitees = 3
 
-`
