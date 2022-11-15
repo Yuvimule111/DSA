@@ -13,22 +13,13 @@
 */
 
 
-var search = function (nums, target) {
-
-    let low = 0;
-    let high = nums.length - 1;
-
-    while(low <= high) {
-        let mid = ~~(low + (high + low) / 2);
-        if(nums[mid] > target) {
-            high = --mid;
-        } else if(nums[mid] < target) {
-            low = ++mid;
-        } else return mid
+var searchInsert = function(nums, target) {
+    for(let i =0;i<nums.length;i++){
+        if(nums[i] >= target)   return i;
     }
-    return low;
+    return nums.length;
 };
 let nums = [1, 3, 5, 6]
-let target = 2;
+let target = 5;
 
-console.log(search(nums, target));
+console.log(searchInsert(nums, target));
