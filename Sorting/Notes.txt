@@ -1,0 +1,66 @@
+Sorting 
+• Minimum Use
+
+1. Insertion Sort
+2. Bubble Sort .
+3 Selection Sort
+4. Redox Sort
+5. Bucket Sort
+
+
+• Most Use 
+
+6. Merge Sort
+7. Heap Sort
+8. Quick Sort 
+
+_________________________________________
+
+* Bubble Sort : Compair Two Elements and 
+                          Swap elements and
+                          Move ahead till Array end .
+
+• Array is Sorted then 1 iteration in Best case.
+
+• Time Complexity of Bubble Sort
+
+Best Case : Omega(n)
+Average Case : (n²)
+Worst Case : O(n²)
+
+___________________________________________
+
+* Selection Sort : Select 1 element and 
+                              starting position , do    
+                              Iteration, Travers and find
+                               Minimum element & swap
+
+• Time complexity of Selection Sort
+
+Best Case : Omega (n²)
+Average Case: (n²)
+Worst Case: O(n²)
+
+
+___________________________________________
+
+* Insertion Sort: we divided Array in two part
+                             1 is a sorted part & 2 is 
+                             Unsorted part.
+                             Unsorted elements swap to
+                             Sorted array part .
+
+
+• Insertion Sort don't recursion call.
+
+• Time complexity of Insertion Sort
+
+Best case : Omega O(n)
+Average Case: O(n²)
+Worst Case: O(n²)
+
+
+___________________________________________
+
+* Merge Sort:  Divide & Concur technique & 
+                         Recursion use here.
