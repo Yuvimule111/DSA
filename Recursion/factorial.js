@@ -4,6 +4,9 @@ function factorial(x) {
     return x * factorial(x - 1);
 }
 
+// 5 * 4 * 3* 2* 1 = 120
+
+
 console.log(factorial(5));
 
 // Cross check
