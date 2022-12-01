@@ -1,5 +1,5 @@
-module.exports = {
-    findMin : function(A) {
+
+   function findMin (A) {
 
         let low = 0, high = (A.length) - 1;
         let len = A.length;
@@ -13,7 +13,7 @@ module.exports = {
 
             let next = (mid + 1) % len, prev = (mid - 1 + len) % len;
 
-            // Checking if Mid is the answer
+            
             if(A[mid] <= A[next] && A[mid] <= A[prev])
                  return A[mid];
             else if (A[mid] <= A[high])
@@ -22,8 +22,7 @@ module.exports = {
                         low = mid + 1; 
         }
         return -1;
-    }
-};
+    };
 
 let A = [1, 2, 3];
 console.log(findMin(A));
