@@ -1,0 +1,12 @@
+
+
+
+                                             **** Reccursion Part No 1 ****
+
+                                             Most of the use reccursion in DP, Backtracking & trees.
+
+                                             Def : 
+
+
+                                            * Base Condition: 
+                                            

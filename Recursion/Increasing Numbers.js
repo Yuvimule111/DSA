@@ -4,6 +4,6 @@ function f(n) {
         return ;
     }
     if(n - 1); // print the first elelment 
-    let  n = 4;
+    
     console.log(n); // printing myself
 }

@@ -1,0 +1,8 @@
+.....  Time Complexity .....
+
+console.log('hello); ---------> This is a constant complexity
+
+** How many times taken statment will exucute is called time Complexity
+
+....Order Of growth......
+
