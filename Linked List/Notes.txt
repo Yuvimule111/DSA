@@ -1,0 +1,23 @@
+Node Class : 
+
+Class Node {
+    constructor(data){
+        this.data = data;
+        this.next = null;
+    }
+}
+
+
+////////////////////////////////////////////////////
+
+Creating a SinglyLinkedList
+
+LinkedList Class : 
+
+class SinglyLinkedList {
+    constructor() {
+        this.head = head;
+        this.length = 0;
+    }
+}
+

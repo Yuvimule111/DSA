@@ -29,9 +29,9 @@ class Stack {
 
 // Push Explanation
 
-// push(element) {
-//     this.data[this.top] = element;
-//     this.top = this.top + 1;
+push(element) {
+    this.data[this.top] = element;
+    this.top = this.top + 1;
 
 //     stack.push(100);
 
@@ -44,4 +44,11 @@ let stack = new Stack();
 Stack.push(100);
 Stack.push(200);
 
-console.log(stack.top);
+console.log(stack.top)
+
+push(element) {
+    this.data[this.top] = element;
+    this.top = this.top + 1;
+}
+
+}
